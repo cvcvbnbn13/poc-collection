@@ -1,0 +1,10 @@
+.NFTcontainer {
+  width: 80%;
+  margin: 2rem auto;
+  border: 1px solid #ccc;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  overflow: auto;
+}

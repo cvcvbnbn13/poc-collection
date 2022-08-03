@@ -1,0 +1,6 @@
+export const INIT_BATCH_TOOL = 'INIT_BATCH_TOOL';
+
+export const START_MINT_NFT = 'START_MINT_NFT';
+
+export const GET_NFT_ARRAY = 'GET_NFT_ARRAY';
+export const GET_QUERY_TOKENID = 'GET_QUERY_TOKENID';
